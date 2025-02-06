@@ -36,5 +36,26 @@ KPIs Tracked:
 📌 Top 5 Countries by User Count – Identification of the most active user bases by country.
 
 
+<br />
 
+<h2>Data Sources</h2>
+
+<br />
+
+Primary Social Media Data:
+- File Name: <i>SocialMediaData.xlsx</i>
+- Fields: Column ID,	Text,	Timestamp,	User,	Platform,	Hashtags,	Sentiment,	Retweets,	Likes,	Country,	Year,	Month,	Day,	Hour
+
+
+Secondary Sentiment Classification Data:
+- File Name: <i>SentimentClassification.xlsx</i>
+- Fields: Sentiment, Classification
+
+<br />
+
+<h2>Tools</h2>
+
+- <b>Excel</b> 
+- <b>Power Query</b>
+- <b>Power BI</b>
 <br />
